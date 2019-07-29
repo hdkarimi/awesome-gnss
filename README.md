@@ -1,10 +1,18 @@
-# Awesome GNSS [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/karimi-hadi/awesome-gnss)
+# Awesome GNSS 
 
-> A collection of awesome GNSS/RNSS related sources, tools, data, MOOC's course, etc. 
+<p align=center>
+ <a href="https://github.com/karimi-hadi/awesome-gnss">
+  <img alt="awesome" src="https://awesome.re/badge-flat.svg"/>
+ </a>
+ <a href="https://github.com/karimi-hadi/awesome-gnss">
+  <img alt="PRs Welcome" src="https://img.shields.io/badge/PRs-welcome-brightgreen.svg"/>
+ </a>
+</p>
 
-**Welcome to contribute. Let's make it better.**
+## About
+A collection of awesome GNSS/RNSS related sources, tools, data, MOOC's course, etc. 
 
-## Contents:
+## Content
 - [Open Source Software or Tools](#open-source-software-or-tools)
 - [Online Positioning Services](#online-positioning-services)
 - [Learning Resources](#learning-resources)
@@ -17,9 +25,8 @@
 - [GPSLogger](https://github.com/mendhak/gpslogger) - A Lightweight GPS Logging Application For Android.
 - [GPSTest](https://github.com/barbeau/gpstest) - An open-source Android GNSS/GPS test program.
 
-## Online positioning Services
-- [CSRS-PPP](https://webapp.geod.nrcan.gc.ca/geod/tools-outils/ppp.php?locale=en) - 
-  *Canadian Spatial Reference System Precise Point Positioning* (NRCan).
+## Online Positioning Services
+- [CSRS-PPP](https://webapp.geod.nrcan.gc.ca/geod/tools-outils/ppp.php?locale=en) - *Canadian Precise Point Positioning* (NRCan).
 - [APPS](http://apps.gdgps.net/) - *Automatic Precise Positioning Service* (JPL). 
 - [GAPS](http://gaps.gge.unb.ca/) - *GNSS Analysis and Positioning Software* (UNB).
 - [OPUS](https://www.ngs.noaa.gov/OPUS/) - *Online Positioning User Service* (NGS).
