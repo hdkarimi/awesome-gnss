@@ -14,7 +14,7 @@
 - [RTKLIB](https://github.com/tomojitakasu/RTKLIB) - An open source program for standard and precise positioning.
 - [GPSTk](https://github.com/SGL-UT/GPSTk) - A library and suite of applications to the satellite navigation.
 - [GNSS-SDR](https://github.com/gnss-sdr/gnss-sdr) - An open source GNSS software defined receiver.
-- [GPSLogger](https://github.com/barbeau/gpstest) - A Lightweight GPS Logging Application For Android.
+- [GPSLogger](https://github.com/mendhak/gpslogger) - A Lightweight GPS Logging Application For Android.
 - [GPSTest](https://github.com/barbeau/gpstest) - An open-source Android GNSS/GPS test program.
 
 ## Online positioning Services
