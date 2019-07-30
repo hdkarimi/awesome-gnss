@@ -15,10 +15,10 @@ A collection of awesome GNSS/RNSS related sources, tools, data, MOOC's course, e
 ## Content
 - [Open Source Software or Tools](#open-source-software-or-tools)
 - [Online Positioning Services](#online-positioning-services)
-- [GPS (United states GNSS)](#gps)
-- [GLONASS (Russian GNSS](#glonass)
-- [Galileo (European GNSS)](#galileo)
-- [BeiDou (Chinese GNSS)](#beidou)
+- [GPS](#gps)
+- [GLONASS](#glonass)
+- [Galileo](#galileo)
+- [BeiDou](#beidou)
 
 
 ## Open Source Software or Tools
@@ -35,14 +35,10 @@ A collection of awesome GNSS/RNSS related sources, tools, data, MOOC's course, e
 - [OPUS](https://www.ngs.noaa.gov/OPUS/) - *Online Positioning User Service* (NGS).
 - [AUSPOS](http://www.ga.gov.au/bin/gps.pl) - *A free online GPS data processing facility* (GA).
 
-<a name="gps" />
-## GPS (United states GNSS) :us:
+## GPS :us:
  
-<a name="glonass" /> 
-## GLONASS (Russian GNSS) :ru:
+## GLONASS :ru:
  
-<a name="galileo" />
-## Galileo (European GNSS) :eu:
+## Galileo :eu:
  
-<a name="beidou" /> 
-## BeiDou (Chinese GNSS) :cn:
+## BeiDou :cn:
