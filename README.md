@@ -43,13 +43,20 @@ A collection of awesome GNSS/RNSS related sources, tools, data, MOOC's course, e
 - [BKG](https://igs.bkg.bund.de/) - Federal Agency for Cartography and Geodesy 
 
 ## GPS 
-:us:
- 
+:satellite: :us:
+- [NavCen](https://www.navcen.uscg.gov/) - GPS Constellation status 
+
+
 ## GLONASS 
-:ru:
+:satellite: :ru:
+- [GLONASS-IAC](https://www.glonass-iac.ru/en/) - GLONASS Constellation status
+ 
  
 ## Galileo 
-:eu:
- 
+:satellite: :eu:
+- [GSC](https://www.gsc-europa.eu/) - Galileo Constellation status
+
+
 ## BeiDou 
-:cn:
+:satellite: :cn:
+- [CSNO-TARC](http://www.csno-tarc.cn/) - BeiDou Constellation status
