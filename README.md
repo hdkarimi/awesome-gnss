@@ -14,6 +14,8 @@ A collection of awesome GNSS/RNSS related sources, tools, data, MOOC's course, e
 
 ## Content
 - [Open Source Software or Tools](#open-source-software-or-tools)
+  - [Desktop Tools](desktop-tools)
+  - [Mobile Tools](mobile-tools)
 - [Online Positioning Services](#online-positioning-services)
 - [Data and Products Archives](#data-and-products-archives)
 - [GPS](#gps)
@@ -23,9 +25,12 @@ A collection of awesome GNSS/RNSS related sources, tools, data, MOOC's course, e
 
 
 ## Open Source Software or Tools
+### Desktop Tools
 - [RTKLIB](https://github.com/tomojitakasu/RTKLIB) - An open source program for standard and precise positioning.
 - [GPSTk](https://github.com/SGL-UT/GPSTk) - A library and suite of applications to the satellite navigation.
 - [GNSS-SDR](https://github.com/gnss-sdr/gnss-sdr) - An open source GNSS software defined receiver.
+
+### Mobile Tools
 - [GPSLogger](https://github.com/mendhak/gpslogger) - A Lightweight GPS Logging Application For Android.
 - [GPSTest](https://github.com/barbeau/gpstest) - An open-source Android GNSS/GPS test program.
 
