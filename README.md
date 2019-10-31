@@ -27,17 +27,18 @@ A collection of awesome GNSS/RNSS related sources, tools, data, MOOC's course, e
 ## Open Source Software or Tools
 ### Desktop Tools
 - [RTKLIB](https://github.com/tomojitakasu/RTKLIB) - An open source program for standard and precise positioning.
-- [GPSTk](https://github.com/SGL-UT/GPSTk) - A library and suite of applications to the satellite navigation.
 - [GNSS-SDR](https://github.com/gnss-sdr/gnss-sdr) - An open source GNSS software defined receiver.
+- [GPSTk](https://github.com/SGL-UT/GPSTk) - A library and suite of applications to the satellite navigation.
 
 ### Mobile Tools
-- [GNSSLogger](https://github.com/google/gps-measurement-tools) - Sample GNSS Logging App From Google.
 - [GPSLogger](https://github.com/mendhak/gpslogger) - A Lightweight GPS Logging Application For Android.
+- [GNSSLogger](https://github.com/google/gps-measurement-tools) - Sample GNSS Logging App From Google.
 - [GPSTest](https://github.com/barbeau/gpstest) - An open-source Android GNSS/GPS test program.
+- [RTKGPS+](https://github.com/eltorio/RtkGps) - RTKLIB (RTKNAVI) port on android.
 - [GNSS_Compare](https://github.com/TheGalfins/GNSS_Compare) - A framework for processing raw GNSS measurements.
-- [RTKGPS+](https://github.com/eltorio/RtkGps) - Playing with rtklib on android 
 
-### Web Tools (Online Positioning Services)
+
+### Web Tools
 - [CSRS-PPP](https://webapp.geod.nrcan.gc.ca/geod/tools-outils/ppp.php?locale=en) - *Canadian Precise Point Positioning* (NRCan).
 - [APPS](http://apps.gdgps.net/) - *Automatic Precise Positioning Service* (JPL). 
 - [GAPS](http://gaps.gge.unb.ca/) - *GNSS Analysis and Positioning Software* (UNB).
