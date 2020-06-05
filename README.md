@@ -16,7 +16,7 @@ A collection of awesome GNSS/RNSS related sources, tools, data, MOOC's course, e
 
 ## Content
 - [Open Source Software, Tools and APIs](#open-source-software-tools-and-apis)
-  - [C/C++](#cc++)
+  - [C/C++](#cc)
   - [Java](#java)
   - [Python](#python)
   - [MATLAB](#matlab)
