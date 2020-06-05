@@ -84,5 +84,5 @@ A collection of awesome GNSS/RNSS related sources, tools, data, MOOC's course, e
 
 
 ## IRNSS
-:satellite: :in:
+:satellite: :india:
 - [ISRO](https://www.isro.gov.in/irnss-programme) - IRNSS/NavIC Constellation status
