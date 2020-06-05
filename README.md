@@ -1,16 +1,16 @@
 # Awesome GNSS 
 
 <p align=center>
- <a href="https://github.com/karimi-hadi/awesome-gnss">
+ <a href="https://github.com/hdkarimi/awesome-gnss">
   <img alt="awesome" src="https://awesome.re/badge-flat.svg"/>
  </a>
- <a href="https://github.com/karimi-hadi/awesome-gnss">
+ <a href="https://github.com/hdkarimi/awesome-gnss">
   <img alt="PRs Welcome" src="https://img.shields.io/badge/PRs-welcome-brightgreen.svg"/>
  </a>
 </p>
 
 ## About
-A collection of awesome GNSS/RNSS related sources, tools, data, MOOC's course, etc. 
+A collection of awesome GNSS/RNSS related sources, tools, data, MOOC's course, etc.
 
 ## Content
 - [Open Source Software or Tools](#open-source-software-or-tools)
@@ -22,6 +22,8 @@ A collection of awesome GNSS/RNSS related sources, tools, data, MOOC's course, e
 - [GLONASS](#glonass)
 - [Galileo](#galileo)
 - [BeiDou](#beidou)
+- [QZSS](#qzss)
+- [IRNSS](#irnss)
 
 
 ## Open Source Software or Tools
@@ -50,23 +52,37 @@ A collection of awesome GNSS/RNSS related sources, tools, data, MOOC's course, e
 - [GSSC](https://gssc.esa.int/) - ESA's GNSS Science Support Center
 - [WHU](http://www.igs.gnsswhu.cn/) - Wuhan University Data Center
 - [BKG](https://igs.bkg.bund.de/) - Federal Agency for Cartography and Geodesy 
+- [GA](https://www.ga.gov.au/home) - Geoscience Australia, a public organization
 
-
-## GPS 
+## GPS
 :satellite: :us:
-- [NavCen](https://www.navcen.uscg.gov/) - GPS Constellation status 
+- [NavCen](https://www.navcen.uscg.gov/) - GPS Constellation status
+- [List_of_satellites](https://en.wikipedia.org/wiki/List_of_GPS_satellites) - List of GPS satellites
 
 
 ## GLONASS 
 :satellite: :ru:
 - [GLONASS-IAC](https://www.glonass-iac.ru/en/) - GLONASS Constellation status
+- [List_of_satellites](https://en.wikipedia.org/wiki/List_of_GLONASS_satellites) - List of GLONASS satellites
  
  
 ## Galileo 
 :satellite: :eu:
 - [GSC](https://www.gsc-europa.eu/) - Galileo Constellation status
+- [List_of_satellites](https://en.wikipedia.org/wiki/List_of_Galileo_satellites) - List of Galileo satellites
 
 
 ## BeiDou 
 :satellite: :cn:
 - [CSNO-TARC](http://www.csno-tarc.cn/) - BeiDou Constellation status
+- [List_of_satellites](https://en.wikipedia.org/wiki/List_of_BeiDou_satellites) - List of BeiDou satellites
+
+
+## QZSS
+:satellite: :jp:
+- [QZSS website](https://qzss.go.jp/en/index.html) - QZSS Constellation status
+
+
+## IRNSS
+:satellite: :in:
+- [ISRO](https://www.isro.gov.in/irnss-programme) - IRNSS/NavIC Constellation status
