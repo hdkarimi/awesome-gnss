@@ -32,16 +32,16 @@ A collection of awesome GNSS/RNSS related sources, tools, data, MOOC's course, e
 
 ## Open Source Software, Tools and APIs
 ### C/C++
-- [RTKLIB](https://github.com/tomojitakasu/RTKLIB) - An open source program for standard and precise positioning.
-- [GNSS-SDR](https://github.com/gnss-sdr/gnss-sdr) - An open source GNSS software defined receiver.
-- [GPSTk](https://github.com/SGL-UT/GPSTk) - A library and suite of applications to the satellite navigation.
+- [RTKLIB](https://github.com/tomojitakasu/RTKLIB) - An open source program for standard and precise positioning
+- [GNSS-SDR](https://github.com/gnss-sdr/gnss-sdr) - An open source GNSS software defined receiver
+- [GPSTk](https://github.com/SGL-UT/GPSTk) - A library and suite of applications to the satellite navigation
 
 ### Java
-- [GPSLogger](https://github.com/mendhak/gpslogger) - A Lightweight GPS Logging Application For Android.
-- [GNSSLogger](https://github.com/google/gps-measurement-tools) - Sample GNSS Logging App From Google.
+- [GPSLogger](https://github.com/mendhak/gpslogger) - A Lightweight GPS Logging Application For Android
+- [GNSSLogger](https://github.com/google/gps-measurement-tools) - Sample GNSS Logging App From Google
 - [GPSTest](https://github.com/barbeau/gpstest) - An open-source Android GNSS/GPS test program.
-- [RTKGPS](https://github.com/illarionov/RtkGps) - RTKLIB (RTKNAVI) port on android.
-- [GNSS_Compare](https://github.com/TheGalfins/GNSS_Compare) - A framework for processing raw GNSS measurements.
+- [RTKGPS](https://github.com/illarionov/RtkGps) - RTKLIB (RTKNAVI) port on android
+- [GNSS_Compare](https://github.com/TheGalfins/GNSS_Compare) - A framework for processing raw GNSS measurements
 
 ### Python
 - [laika](https://github.com/commaai/laika) - Simple python GNSS processing library 
@@ -53,11 +53,11 @@ A collection of awesome GNSS/RNSS related sources, tools, data, MOOC's course, e
 
 
 ## Web-based Positioning Services
-- [CSRS-PPP](https://webapp.geod.nrcan.gc.ca/geod/tools-outils/ppp.php?locale=en) - *Canadian Precise Point Positioning* (NRCan).
-- [APPS](http://apps.gdgps.net/) - *Automatic Precise Positioning Service* (JPL). 
-- [GAPS](http://gaps.gge.unb.ca/) - *GNSS Analysis and Positioning Software* (UNB).
-- [OPUS](https://www.ngs.noaa.gov/OPUS/) - *Online Positioning User Service* (NGS).
-- [AUSPOS](http://www.ga.gov.au/bin/gps.pl) - *A free online GPS data processing facility* (GA).
+- [CSRS-PPP](https://webapp.geod.nrcan.gc.ca/geod/tools-outils/ppp.php?locale=en) - *Canadian Precise Point Positioning* (NRCan)
+- [APPS](http://apps.gdgps.net/) - *Automatic Precise Positioning Service* (JPL)
+- [GAPS](http://gaps.gge.unb.ca/) - *GNSS Analysis and Positioning Software* (UNB)
+- [OPUS](https://www.ngs.noaa.gov/OPUS/) - *Online Positioning User Service* (NGS)
+- [AUSPOS](http://www.ga.gov.au/bin/gps.pl) - *A free online GPS data processing facility* (GA)
 
 
 ## Data and Products Archives
