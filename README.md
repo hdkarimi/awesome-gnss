@@ -55,34 +55,34 @@ A collection of awesome GNSS/RNSS related sources, tools, data, MOOC's course, e
 - [GA](https://www.ga.gov.au/home) - Geoscience Australia, a public organization
 
 ## GPS
-:satellite: :us:
+:artificial_satellite: :us:
 - [NavCen](https://www.navcen.uscg.gov/) - GPS Constellation status
 - [List_of_satellites](https://en.wikipedia.org/wiki/List_of_GPS_satellites) - List of GPS satellites
 
 
 ## GLONASS 
-:satellite: :ru:
+:artificial_satellite: :ru:
 - [GLONASS-IAC](https://www.glonass-iac.ru/en/) - GLONASS Constellation status
 - [List_of_satellites](https://en.wikipedia.org/wiki/List_of_GLONASS_satellites) - List of GLONASS satellites
  
  
 ## Galileo 
-:satellite: :eu:
+:artificial_satellite: :eu:
 - [GSC](https://www.gsc-europa.eu/) - Galileo Constellation status
 - [List_of_satellites](https://en.wikipedia.org/wiki/List_of_Galileo_satellites) - List of Galileo satellites
 
 
 ## BeiDou 
-:satellite: :cn:
+:artificial_satellite: :cn:
 - [CSNO-TARC](http://www.csno-tarc.cn/) - BeiDou Constellation status
 - [List_of_satellites](https://en.wikipedia.org/wiki/List_of_BeiDou_satellites) - List of BeiDou satellites
 
 
 ## QZSS
-:satellite: :jp:
+:artificial_satellite: :jp:
 - [QZSS website](https://qzss.go.jp/en/index.html) - QZSS Constellation status
 
 
 ## IRNSS
-:satellite: :india:
+:artificial_satellite: :india:
 - [ISRO](https://www.isro.gov.in/irnss-programme) - IRNSS/NavIC Constellation status
