@@ -35,7 +35,6 @@ A collection of awesome GNSS/RNSS related sources, tools, data, MOOC's course, e
 - [RTKLIB](https://github.com/tomojitakasu/RTKLIB) - An open source program for standard and precise positioning
 - [GNSS-SDR](https://github.com/gnss-sdr/gnss-sdr) - An open source GNSS software defined receiver
 - [GNSS-SDRLIB](https://github.com/taroz/GNSS-SDRLIB) - An open source GNSS software defined radio library
-
 - [GPSTk](https://github.com/SGL-UT/GPSTk) - A library and suite of applications to the satellite navigation
 
 ### Java
